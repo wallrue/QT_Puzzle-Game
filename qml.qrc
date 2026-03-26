@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AnimatedLogo.qml</file>
+        <file>images/pic.ico</file>
+        <file>LoginDialog.qml</file>
+        <file>HelpingDialog.qml</file>
+        <file>WinningDialog.qml</file>
+        <file>NextGame.qml</file>
+    </qresource>
+    <qresource prefix="/data"/>
+</RCC>

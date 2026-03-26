@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/video">
+        <file>images/outtro.mp4</file>
+        <file>images/outtro.gif</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/round1.jpg</file>
+        <file>images/round2.jpg</file>
+        <file>images/round3.jpg</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>images/logo.png</file>
+        <file>images/pic.ico</file>
+        <file>images/intro.png</file>
+        <file>images/newlogo.png</file>
+    </qresource>
+</RCC>
