@@ -8,9 +8,9 @@ Lover's Puzzle is a lightweight puzzle-solving game developed using the Qt frame
 </div>
 
 🛠 Tech Stack
-Language: C++ / QML
-Framework: Qt Framework
-Platform: Android (via Qt for Android) & Desktop
+- Language: C++ / QML
+- Framework: Qt Framework
+- Platform: Android (via Qt for Android) & Desktop
 
 📱 Download the App from Google Play: [Lover's Puzzle on Google Play Store](https://play.google.com/store/apps/details?id=org.qtproject.example.MyGift)
 
